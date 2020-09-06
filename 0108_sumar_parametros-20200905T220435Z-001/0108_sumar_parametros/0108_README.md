@@ -1,0 +1,1 @@
+- Durante el video, en 3:15 menciono que los registros se agregan a la pila desde el final hacia el principio, y luego aclaro "primero A6 y luego A7". **ESTA ÚLTIMA ACLARACIÓN ES EXACTAMENTE AL REVÉS**, primero se pushea a7 y luego se pushea a6 (la resolución posterior en el video y los dibujos de la pila sin embargo son correctos, el error fue al decirlo solamente).
