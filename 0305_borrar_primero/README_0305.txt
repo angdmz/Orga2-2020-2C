@@ -1,0 +1,1 @@
+- En el video hay : después de section.text, en este caso no rompe nada y el código se deja compilar y debuggear, pero no van : después de las etiquetas section y puede romper el debugger.
